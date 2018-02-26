@@ -14,7 +14,7 @@ dependencies:
   - psycopg2
   - numpy
   - pandas
-  - vpython
+  - visuals
   - six
   - sqlalchemy
   - nose
