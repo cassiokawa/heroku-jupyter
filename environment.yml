@@ -12,6 +12,9 @@ dependencies:
   - cryptography 
   - mako
   - psycopg2
+  - numpy
+  - pandas
+  - vpython
   - six
   - sqlalchemy
   - nose
